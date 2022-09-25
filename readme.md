@@ -4,7 +4,11 @@ Run the build first
 
 Then
 
-npm run start
+> npm run start
+
+---
+
+### Example of type definition
 
 ```
 type Movie {
@@ -17,7 +21,6 @@ type Movie {
 
 The query type is for data fetching operations, the mutation type is for operations for creating or modifying data, and the subscription type is for real-time data fetching operations.
 
-https://www.koyeb.com/tutorials/deploy-a-graphql-api-with-mongodb-atlas-and-apollo-server-on-koyeb
 
 #### get movies
 
