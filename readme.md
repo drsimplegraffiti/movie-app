@@ -1,12 +1,10 @@
-
 ![Capture](https://user-images.githubusercontent.com/70065792/192149916-5abd4977-6129-41a9-8084-86bbf41f43ee.PNG)
-
 
 ##### Run the build first
 
 > npm run build
 
-Then
+Then the following command
 
 > npm run start
 
@@ -25,8 +23,7 @@ type Movie {
 
 The query type is for data fetching operations, the mutation type is for operations for creating or modifying data, and the subscription type is for real-time data fetching operations.
 
-
-### get movies
+### get all movies
 
 ```graphql
 query {
