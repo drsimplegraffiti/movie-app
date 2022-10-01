@@ -40,7 +40,7 @@ query {
 
 ```graphql
 mutation {
-  createMovie(title: "bang", rating: 34, year: 1998) {
+  createMovie(title: "bang bang theory", rating: 34, year: 1998) {
     _id
     title
     rating
