@@ -52,7 +52,7 @@ mutation {
 }
 ```
 
-#### create new movie=== mutation
+#### create new movie== mutation
 
 ```graphql
 mutation ($title: String!, $rating: Float!, $year: Int!) {
