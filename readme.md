@@ -26,7 +26,7 @@ type Movie {
 The query type is for data fetching operations, the mutation type is for operations for creating or modifying data, and the subscription type is for real-time data fetching operations.
 
 
-#### get movies
+### get movies
 
 ```graphql
 query {
